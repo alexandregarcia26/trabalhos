@@ -3,7 +3,7 @@ error_reporting(E_ALL);
 ini_set('display_errors', 1);
 
 require_once('Conexao.php');
-require_once($_SERVER['DOCUMENT_ROOT'] . '/Projeto/MVC/model/Pessoa.php');
+require_once($_SERVER['DOCUMENT_ROOT'] . '/Projeto mvc/MVC/model/Pessoa.php');
 
 class PessoaDAO
 {
