@@ -1,9 +1,9 @@
 const LinksSocialMedia = {
   github: 'top?q=tattoo%20e%20tinta',
-  youtube: 'top?q=tattoo%20e%20tinta',
+  youtube: 'watch?v=dQw4w9WgXcQ',
   facebook: 'search/top?q=tattoo%20e%20tinta',
-  instagram: 'canalartedaguerra/',
-  twitter: '@robinfarin'
+  instagram: 'maykbrito',
+  twitter: 'maykbrito'
 }
 function changeSocialMediaLinks() {
   for (let li of socialLinks.children) {
